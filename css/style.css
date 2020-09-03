@@ -1,0 +1,82 @@
+.header{
+    height: 101px;
+    text-align: center;
+}
+#inHeader{
+    margin-left: 120px;
+    height: 100%;
+    width: 1110px;
+    border-bottom: 1px solid #d3d3d3;
+    /* background-color: deeppink; */
+    display: flex;
+    position: relative;
+}
+#logo{
+
+    /* position: relative; */
+    margin-top: 20px;
+    margin-bottom: 8px;
+    /* display: block; */
+    /* z-index: 1; */
+    /* width: 26%; */
+    float: left;
+}
+.border{
+    border-right: 1px solid   #d3d3d3;
+    height: 40px;
+    margin-left: 20px;
+    width: 1px;
+    margin-top: 33px;
+}
+#powered{
+    width: 105px;
+    height: 40px;
+    margin-left: 21px;
+    margin-top: 32px;
+
+}
+#powered p{
+    display: inline-block;
+    float: left;
+    font-size: 12px;
+    color:#0c81d2;
+    padding-top: 8px;
+    margin: 0;
+    font-family: "Roboto", Helvetica, Arial, sans-serif !important;
+}
+#powered-logo{
+    width: 110px;
+    padding-bottom: 2px;
+}
+#powered-logo img{
+    width: 110px;
+}
+.nav{
+    position: absolute;
+    right: 0px;;
+   height: 100%;
+   /* width: 45%; */
+   /* background-color: silver; */
+    /* float: right; */
+}
+#find-deals{
+    display: inline-block;
+    color: #0c81d2;
+    text-align: center;
+    /* text-decoration: none; */
+    padding-left: 40px;
+    font-weight: normal;
+    line-height: 25px;
+    font-family: "Roboto", Tahoma, Helvetica, Arial, sans-serif;
+    margin-top: 53px;
+    font-size: 16px;
+}
+#find-deals :hover{
+
+}
+.button {
+    position: absolute;
+    right: -2px;
+    margin-top: 10px;
+    width: 18%;
+}

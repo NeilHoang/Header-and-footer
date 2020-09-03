@@ -1,0 +1,9 @@
+.hybrid-footer {
+    text-align: center;
+    background: #1BA8FF;
+    font-family: "Roboto", Helvetica, Arial, sans-serif !important;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+    line-height: 75px;
+}
